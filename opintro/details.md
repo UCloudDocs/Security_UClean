@@ -1,6 +1,6 @@
 {{indexmenu_n>2}}
 
-# 2\. 查看清洗详情
+# 2. 查看清洗详情
 
 ![](/images/opintro/清洗详情.png)
 
